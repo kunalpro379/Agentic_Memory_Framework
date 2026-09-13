@@ -1,5 +1,5 @@
 ## Memory Architecture
-![Memory Tier Architecture](Documentations/MemoryTier.png)
+![Memory Tier Architecture](Documentations/MemoryTier50.png)
 # Agentic Memory System Architecture
 
 ## Overview
